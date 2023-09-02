@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angebhd
+- 👋 Hi, I’m BUHENDWA Ange
 - 👀 I’m interested in web development (Backend)
 - 🌱 I’m currently learning MERN stack 
 - 💞️ I’m looking to collaborate on ...
