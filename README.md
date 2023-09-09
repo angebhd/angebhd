@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my personal website**
 
 - 🌱 I’m currently learning **MERN stack**
 
