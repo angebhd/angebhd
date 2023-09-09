@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ange BUHENDWA</h1>
-<h3 align="center">A passionate about new technologies</h3>
+<h3 align="center">A passionate about new technologies. Currently I'm a student in Information Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angebhd&label=Profile%20views&color=0e75b6&style=flat" alt="angebhd" /> </p>
 
