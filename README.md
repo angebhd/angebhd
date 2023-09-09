@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ange BUHENDWA</h1>
-<h3 align="center">A passionate about new technologies. Currently I'm a student in Information Technology</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=flase&width=600&lines=Hi+there+👋,+I+am+Ange+Buhendwa+(John);+Welcome+to+My+Profile!😊;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angebhd&label=Profile%20views&color=0e75b6&style=flat" alt="angebhd" /> </p>
 
