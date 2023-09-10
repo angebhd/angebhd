@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **my personal website**
+- 🔭 I’m currently working on **my first MERN stack project**
 
 - 🌱 I’m currently learning **MERN stack**
 
