@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **my first MERN stack based web app**
+- 🔭 I’m currently working on **a personal MERN stack based web app**
 
 - 🌱 I’m currently learning **MERN stack**
 
