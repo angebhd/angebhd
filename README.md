@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=flase&width=600&lines=Hi+there+👋,+I+am+Ange+Buhendwa;+Welcome+to+My+Profile!😊;)](https://git.io/typing-svg)
 
 
-<a href="https://www.github.com/angebhd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/angebhd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> &nbsp;
+<!-- <a href="https://www.github.com/angebhd" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/angebhd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> &nbsp; -->
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=angebhd&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=1c1917" alt="angebhd" /> </a> &nbsp;
 <a href="https://www.x.com/angebhd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/follow-%40angebhd-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" /></a> &nbsp;
+src="https://img.shields.io/badge/follow-%40angebhd-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" /></a> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angebhd&label=Profile%20views&color=0e75b6&style=flat" alt="angebhd" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -73,22 +73,24 @@ src="https://img.shields.io/badge/follow-%40angebhd-0891b2?logo=x&style=for-the-
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/docker-colored.svg" alt="Docker" />
 </picture></a> &nbsp;
-
+<!--
 ### Badges
-#### My GitHub Stats
-
+#### My GitHub Stats -->
+<!--
+### Badges -->
+### My GitHub Stats
 <a
-href="http://www.github.com/angebhd"><img src="https://github-readme-stats.vercel.app/api?username=angebhd&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="angebhd's GitHub stats" /></a> <br/>
-<br/>
+href="http://www.github.com/angebhd"><img src="https://github-readme-stats.vercel.app/api?username=angebhd&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="angebhd's GitHub stats" /></a>
 <a href="http://www.github.com/angebhd"><img
 src="https://streak-stats.demolab.com/?user=angebhd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
-<br/>
+
 <!-- 
 <a href="http://www.github.com/angebhd"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=angebhd&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
 <br/>
 -->
 <a href="https://github.com/angebhd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angebhd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
 
+<!--
 #### My GitHub badges
 
 <p align="left">
@@ -96,7 +98,7 @@ src="https://streak-stats.demolab.com/?user=angebhd&stroke=ffffff&background=1c1
     <img src="https://github-profile-trophy.vercel.app/?username=angebhd&theme=darkhub" alt="angebhd" />
   </a>
 </p>
-
+-->
 <!---
 angebhd/angebhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
