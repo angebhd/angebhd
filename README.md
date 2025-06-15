@@ -5,7 +5,9 @@
 src="https://img.shields.io/github/followers/angebhd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> &nbsp; -->
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=angebhd&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=1c1917" alt="angebhd" /> </a> &nbsp;
 <a href="https://www.x.com/angebhd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/follow-%40angebhd-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" /></a> 
+src="https://img.shields.io/badge/follow-%40angebhd-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" /></a>
+[![Codewars](https://www.codewars.com/users/angebhd/badges/large)](https://www.codewars.com/users/angebhd)
+
 
 
 <h3 align="left">Connect with me:</h3>
