@@ -17,10 +17,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** focused on building clean, scalable, and user-friendly applications. I enjoy working across the entire stack — from designing intuitive UIs to architecting reliable backends.
+I'm a passionate **Software Engineer** focused on building clean, scalable, and user-friendly applications. I enjoy working across the entire stack, from designing intuitive UIs to architecting reliable backends.
 
 - 🔭 Currently building with **Next.js**, **NestJS**, and **Spring Boot**
-- 🌱 Always learning — currently diving deep into **Microservices** & **Spring Cloud**
+- 🌱 Always learning - currently diving deep into **Microservices** & **Spring Cloud**
 - 💬 Ask me about **TypeScript**, **React**, **Node.js**, **Spring Boot**, or **PostgreSQL**
 - ⚡ Fun fact: I also tinker with **Arduino** hardware projects
 
