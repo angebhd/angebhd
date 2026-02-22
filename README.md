@@ -90,7 +90,7 @@ I'm a passionate **Software Engineer** focused on building clean, scalable, and 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=angebhd&bg_color=1c1917&color=ffffff&line=36BCF7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Ange's%20GitHub%20Activity%20Graph" alt="Activity Graph" />
 </a>
 ---
--->
+
 
 
 ## 🎯 Coding Activity
@@ -106,7 +106,7 @@ I'm a passionate **Software Engineer** focused on building clean, scalable, and 
 </p>
 
 ---
-
+-->
 ## 💡 Dev Quote of the Day
 
 <p align="left">
